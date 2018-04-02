@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppAR", "ShoppAR.csproj", "{0CF9F971-0DD4-1869-C9D5-7C849EC62269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppAR.Editor", "ShoppAR.Editor.csproj", "{51FE42D2-C80A-ABDA-98E0-6A434B10CFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF9F971-0DD4-1869-C9D5-7C849EC62269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF9F971-0DD4-1869-C9D5-7C849EC62269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF9F971-0DD4-1869-C9D5-7C849EC62269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF9F971-0DD4-1869-C9D5-7C849EC62269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FE42D2-C80A-ABDA-98E0-6A434B10CFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FE42D2-C80A-ABDA-98E0-6A434B10CFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FE42D2-C80A-ABDA-98E0-6A434B10CFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FE42D2-C80A-ABDA-98E0-6A434B10CFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
